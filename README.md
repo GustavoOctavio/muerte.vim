@@ -1,2 +1,2 @@
 # muerte.vim
-# Desarrollo de un esquema de colores para el neovim-vim.
+# Desarrollo de un esquema de colores para neovim-vim.
